@@ -6,4 +6,5 @@ USER root
 
 RUN pip install pandas_profiling
 RUN pip install yellowbrick
+RUN pip install xgboost
 
